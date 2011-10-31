@@ -1,1 +1,16 @@
-hello
+// A Hello World! program in C#.
+using System;
+namespace HelloWorld
+{
+    class Hello 
+    {
+        static void Main() 
+        {
+            Console.WriteLine("Hello World! I'm here!!!!");
+
+	    Console.WriteLine("how do you do?");
+            Console.WriteLine("Press any key to exit.");
+            Console.ReadKey();
+        }
+    }
+}
