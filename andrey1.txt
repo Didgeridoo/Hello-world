@@ -1,3 +1,7 @@
 first branch commit + second______
 
+<<<<<<< HEAD
+git flow feature!!!!!!
+=======
 git flow hotfix!!!!
+>>>>>>> hotfix/hotfixAndrey1
